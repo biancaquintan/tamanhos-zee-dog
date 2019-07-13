@@ -1,0 +1,16 @@
+footer {
+  width: 100%;
+  background: #000;
+  left: 0;
+  bottom: 0;
+  display: block;
+  position: absolute;
+}
+img {
+  border: 0;
+}
+.logo {
+  width: 20%;
+  display: block;
+  margin: 0 auto;
+}

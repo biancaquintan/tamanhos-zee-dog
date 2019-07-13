@@ -1,0 +1,23 @@
+html, body {
+  height: 100%;
+  font-family: futura-pt,Helvetica Neue,Helvetica,Arial,sans-serif;
+  color: #FFF;
+}
+#root {
+  height: 100%;
+}
+.App {
+  height: 100%;
+  width: 100%;
+}
+.sizechart {
+  display: flex;
+  box-sizing: inherit;
+  height: 100vh;
+  width: 100vw;
+  flex-direction: row;
+  overflow: hidden;
+}
+* {
+  box-sizing: inherit;
+}
